@@ -1,0 +1,4 @@
+matplotlib
+koreanize-matplotlib
+folium
+streamlit_folium
